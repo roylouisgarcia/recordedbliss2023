@@ -143,7 +143,48 @@ ikaw lang nag iisa<br>`, ` <h3>I Love You</h3>     I know that it's wrong<br>
       Yeah, I know that tears may break apart<br>
       event hough I won't listen to my heart singing...<br><br>
       I know that it is wrong <br>
-      to even love you....I love you <br>`
+      to even love you....I love you <br>`, `<h3>Tattie Wants to Play</h3>
+
+	  Tattie wants to play</br>
+	  a single game I say</br>
+	  where no one needs to hide</br>
+	  </br>
+	  Tattie needs to stay</br>
+	  and finish all the way</br>
+	  this thing that they call life</br>
+	  </br>
+	  Up above the sky</br>
+	  you look down and you cry</br>
+	  I'm sorry my child</br>
+	  but I haven't learned to fly</br>
+	  </br>
+	  just wait a lil while</br>
+	  and hush now please dont cry</br>
+	  somebody dreams</br>
+	  and there I call you </br>
+	  </br>
+	  ....my child</br>
+	  </br>
+	  Would you believe we tried</br>
+	  to let fate run us by</br>
+	  and look where we are now</br>
+	  </br>
+	  Tattie worked all night</br>
+	  and said that we can try</br>
+	  to make things right</br>
+	  </br>
+	  But deep down inside </br>
+	  Tattie wants to cry</br>
+	  I'm sorry my child for letting things go by</br>
+	  </br>
+	  just wait a lil while</br>
+	  and hush now please dont cry</br>
+	  somebody dreams</br>
+	  and there I call you </br>
+	  </br>
+	  </br>
+	  ....my child</br>
+	  `
 
 	]
 
