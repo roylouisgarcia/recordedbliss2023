@@ -1,16 +1,16 @@
 audioPlayer();
 function audioPlayer(){
 
-	const lyrics = [`<h3>Kilig</h3>		ayan ka na naman at akoy iyung binati ng Hello <br>
+	const lyrics = [`<h3>Kilig</h3>		Ayan ka na naman at ako'y iyung binati ng "Hello" <br>
         Muntik mahulog sa hagdan, nalunod at walang sagwan <br> <br>
         
         Kailan maibubuka ang mahiyain kong bibig <br>
-        at mapigilan na magsuka "oh shet naman" <br>
-        sasabog ang dibdib <br> <br>
+        at mapigilang magsuka, "oh shet naman" <br>
+        Sasabog ang dibdib <br> <br>
         
-        Kay ganda mong prinsesa <br>
-        Forever na lang bang akong aasaha.. <br>
-        at akoy kikiligin... <br> <br>`, `<h3>Angel</h3>
+        O, kay-ganda mong Prinsesa <br>
+        Forever na lang bang akong aasa? <br>
+        At akoy kikiligin... <br> <br>`, `<h3>Angel</h3>
 
 		if love drifts away</br>
 		and tears start falling day by day</br>
@@ -275,6 +275,40 @@ ikaw lang nag iisa<br>`, ` <h3>I Love You</h3>     I know that it's wrong<br>
 	  won't let the end of time go near</br>
 	  baby let's go, I need you right now</br>
 	  </br>
+	  `, `<h3>I Steal</h3>
+
+	  Now I'll sing you a love song</br>
+	  I haven't sang before;</br>
+	  I promised you on the phone.</br>
+	  I hope it's not too late</br>
+	  and love didnt turn to hate;</br>
+	  Girl I'm sorry for making you wait.</br>
+	  </br>
+	  Tears had fell from my eyes</br>
+	  the hurt I kept inside</br>
+	  when promises turned to lies</br>
+	  the night you said you're sorry</br>
+	  took the pains from my heart away</br>
+	  Girl I wish that your love could stay</br>
+	  </br>
+	  So many dreams have ended</br>
+	  and you are a dream I couldn't reach</br>
+	  but now I'm here looking in your eyes</br>
+	  </br>
+	  O girl...I...</br>
+	  </br>
+	  I still love you</br>
+	  eventhough they say it's wrong</br>
+	  I have nothing to offer you</br>
+	  but I promise to be true</br>
+	  </br>
+	  I'll wait for you</br>
+	  Through eternity I'm sure</br>
+	  if I could only love you</br>
+	  I know I'll take care of you</br>
+	  </br>
+	  Now I just sang your song</br>
+	  Could you tell what I did wrong?</br>
 	  `, `<h3>ReignYanTrevon</h3>
 
 	  Sure your sleepy eyes need wake</br>
@@ -346,6 +380,35 @@ ikaw lang nag iisa<br>`, ` <h3>I Love You</h3>     I know that it's wrong<br>
 	  </br>
 	  </br>
 	  ....my child</br>
+	  `, `<h3>Uulitin</h3>
+
+	  Ilang ulit na ba nakalimutan</br>
+	  ang daraanan patungo sa buwan?</br>
+	  Ilang gabi na ba? na walang tutulugan,</br>
+	  putikan ang iyung unan</br>
+	  sa lansangan</br>
+	  </br>
+	  Ano ba ang iyung KARMA?</br>
+	  Ikaw lagi'y nasasaktan</br>
+	  Bakit ang iba'y nasa kama</br>
+	  mahimbing at puno ang tiyan?</br>
+	  </br>
+	  Ilang luha pa ba ang iyung hinahamon?</br>
+	  Kailan ba aahon sa mali ng kahapon?</br>
+	  </br>
+	  Sa iyo ba ang iyong KARMA?</br>
+	  Sinasadya ba ng Maykapal?</br>
+	  Bakit ang iba'y may kasama?</br>
+	  Bakit ika'y nag iisa?</br>
+	  </br>
+	  "Sa bawat pag-asang tinutunaw ng mundo</br>
+	  nasasaktan tayo sa mga pangyayaring di gusto.</br>
+	  Libo libong mga tanung ka'y sakit sa ulo.</br>
+	  </br>
+	  Ngiti ka lang kaibigan dahil hindi ka naman talaga nag-iisa!</br>
+	  Mahal ng Diyos ang mga nagdurusa dahil</br>
+	  ang mundong ito'y hinde para sa kanila</br>
+	  Hayaan mong gabayan ka Niya. :)</br>
 	  `
 
 	]
