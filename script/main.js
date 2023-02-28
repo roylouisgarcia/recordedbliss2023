@@ -36,7 +36,39 @@ Money, honey and golden promises<br>
 aint what I need to get by<br>
 As long as your here, please be near, please be near<br>
 
-Cause I love you so.. and don't you worry.. baby<br><br>`, `  <h3>Pen</h3>    Pen pen de sarapen, <br>
+Cause I love you so.. and don't you worry.. baby<br><br>`, `<h3>Gabing Walang Gising</h3>
+
+Mga gabing walang gising</br>
+tinig mo'y dala ng hangin</br>
+ang iyung mata'y nasa bituin</br>
+titig mo'y kay lambot sa damdamin</br>
+</br>
+Sa iyo'y ako'y lumalapit</br>
+tawirin ko man ang manipis na hangin</br>
+sa iyo'y ako'y umaawit</br>
+abutin ko man ang tono ng langit</br>
+</br>
+gumising ka, dumungaw ka</br>
+at ika'y maniwala pag-ibig ko'y nasa tala</br>
+ngumiti ka, at ipikit ang yung mata</br>
+at sa panalangin tayo'y magkita</br>
+</br>
+at kung ika'y napagod na</br>
+sa pagbuo ng mundong buhangin</br>
+hawakan mo ang puso ko</br>
+dalawin mo ang lungkot na tinunaw mo</br>
+</br>
+Sa iyo'y ako'y lumalapit</br>
+tawirin ko man ang manipis na hangin</br>
+sa iyo'y ako'y umaawit</br>
+abutin ko man ang tono ng langit</br>
+</br>
+gumising ka, dumungaw ka</br>
+at ika'y maniwala pag-ibig ko'y nasa tala</br>
+ngumiti ka, at ipikit ang yung mata;</br>
+at sa panalangin tayo'y magkita</br>
+`,
+`  <h3>Pen</h3>    Pen pen de sarapen, <br>
 de kutsilyo de almasen<br>
 Haw, haw de karabaw <br>
 Batutin.<br><br>
