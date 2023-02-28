@@ -143,7 +143,83 @@ ikaw lang nag iisa<br>`, ` <h3>I Love You</h3>     I know that it's wrong<br>
       Yeah, I know that tears may break apart<br>
       event hough I won't listen to my heart singing...<br><br>
       I know that it is wrong <br>
-      to even love you....I love you <br>`, `<h3>Tattie Wants to Play</h3>
+      to even love you....I love you <br>`, `<h3>Castles of Snow</h3>
+
+	  Does it matter if we're far?</br>
+	  We'll be wishing on the same star</br>
+	  Does it matter if I am near?</br>
+	  We'll be dealing with the same fear</br>
+	  Of losing those smiles along the way</br>
+	  Hold you closer than the other day</br>
+	  Wish that it was simpler than this</br>
+	  </br>
+	  I need to find a way to let you know</br>
+	  that it's ok if people know </br>
+	  that we started from afar</br>
+	  I need some time to build castles of snow</br>
+	  and let my princess know together we'll grow</br>
+	  won't let the end of time go near</br>
+	  baby let's go, I need you right now</br>
+	  </br>
+	  Here we are dancing to no song</br>
+	  like you're mine and I'm only yours</br>
+	  and my heart tells me now it's not wrong</br>
+	  for me to love you... all along..</br>
+	  and when stars go find their way</br>
+	  they build the sign you're on your way</br>
+	  I'll be here, calling your name</br>
+	  I needed time away to let you go</br>
+	  had lived with her, yet people know</br>
+	  that you're the one I'd been looking for</br>
+	  </br>
+	  I need to find a way to let you know</br>
+	  that it's ok if people know </br>
+	  that we started from afar</br>
+	  I need some time to build castles of snow</br>
+	  and let my princess know together we'll grow</br>
+	  won't let the end of time go near</br>
+	  baby let's go, I need you right now</br>
+	  </br>
+	  Yes, I am about to kiss you.. yet not so soon</br>
+	  `, `<h3>Castles of Snow</h3>
+
+	  Does it matter if we're far?</br>
+	  We'll be wishing on the same star</br>
+	  Does it matter if I am near?</br>
+	  We'll be dealing with the same fear</br>
+	  Of losing those smiles along the way</br>
+	  Hold you closer than the other day</br>
+	  Wish that it was simpler than this</br>
+	  </br>
+	  I need to find a way to let you know</br>
+	  that it's ok if people know </br>
+	  that we started from afar</br>
+	  I need some time to build castles of snow</br>
+	  and let my princess know together we'll grow</br>
+	  won't let the end of time go near</br>
+	  baby let's go, I need you right now</br>
+	  </br>
+	  Here we are dancing to no song</br>
+	  like you're mine and I'm only yours</br>
+	  and my heart tells me now it's not wrong</br>
+	  for me to love you... all along..</br>
+	  and when stars go find their way</br>
+	  they build the sign you're on your way</br>
+	  I'll be here, calling your name</br>
+	  I needed time away to let you go</br>
+	  had lived with her, yet people know</br>
+	  that you're the one I'd been looking for</br>
+	  </br>
+	  I need to find a way to let you know</br>
+	  that it's ok if people know </br>
+	  that we started from afar</br>
+	  I need some time to build castles of snow</br>
+	  and let my princess know together we'll grow</br>
+	  won't let the end of time go near</br>
+	  baby let's go, I need you right now</br>
+	  </br>
+	  Yes, I am about to kiss you.. yet not so soon</br>
+	  `, `<h3>Tattie Wants to Play</h3>
 
 	  Tattie wants to play</br>
 	  a single game I say</br>
