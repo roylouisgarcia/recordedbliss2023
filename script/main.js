@@ -10,7 +10,36 @@ function audioPlayer(){
         
         Kay ganda mong prinsesa <br>
         Forever na lang bang akong aasaha.. <br>
-        at akoy kikiligin... <br> <br>`, `   <h3>Jax Teller</h3>   Ill be your John Lennon,<br>
+        at akoy kikiligin... <br> <br>`, `<h3>Angel</h3>
+
+		if love drifts away</br>
+		and tears start falling day by day</br>
+		she's there, whispering a prayer</br>
+		wandering, she's on her way</br>
+		my girl, faceless bride</br>
+		flowers sing, she's by my side..</br>
+		angel waiting for her wings..</br>
+		dont fly away too soon</br>
+		and when I close my eyes</br>
+		and you are not there</br>
+		I'd say a prayer</br>
+		Lord can you take me up</br>
+		above the clouds </br>
+		so I can see</br>
+		angel be</br>
+		my star for tonight</br>
+		As years passed me by</br>
+		I'm growing old without your sign</br>
+		I'll wait till the end of time</br>
+		for you my love till I lay dead</br>
+		And when you close your eyes </br>
+		and I'm not there please understand</br>
+		Just look above the clouds</br>
+		I will be there</br>
+		Singing my prayer</br>
+		ANGEL be</br>
+		my star for tonight</br>
+		`, `   <h3>Jax Teller</h3>   Ill be your John Lennon,<br>
 To your Yoko Ono<br>
 Just like Jax Teller<br>
 To your Tara<br>
@@ -143,44 +172,35 @@ ikaw lang nag iisa<br>`, ` <h3>I Love You</h3>     I know that it's wrong<br>
       Yeah, I know that tears may break apart<br>
       event hough I won't listen to my heart singing...<br><br>
       I know that it is wrong <br>
-      to even love you....I love you <br>`, `<h3>Castles of Snow</h3>
+      to even love you....I love you <br>`, `<h3>Nandirito</h3>
 
-	  Does it matter if we're far?</br>
-	  We'll be wishing on the same star</br>
-	  Does it matter if I am near?</br>
-	  We'll be dealing with the same fear</br>
-	  Of losing those smiles along the way</br>
-	  Hold you closer than the other day</br>
-	  Wish that it was simpler than this</br>
+	  Nandirito pa rin ako </br>
+	  nakatunganga sa iyo</br>
+	  May sinasabi pa ako</br>
+	  Nang ako'y iniwan mo</br>
 	  </br>
-	  I need to find a way to let you know</br>
-	  that it's ok if people know </br>
-	  that we started from afar</br>
-	  I need some time to build castles of snow</br>
-	  and let my princess know together we'll grow</br>
-	  won't let the end of time go near</br>
-	  baby let's go, I need you right now</br>
+	  Di mo pa alam</br>
+	  Pangalan ko</br>
+	  Di mo rin dama</br>
+	  Paghanga ko</br>
 	  </br>
-	  Here we are dancing to no song</br>
-	  like you're mine and I'm only yours</br>
-	  and my heart tells me now it's not wrong</br>
-	  for me to love you... all along..</br>
-	  and when stars go find their way</br>
-	  they build the sign you're on your way</br>
-	  I'll be here, calling your name</br>
-	  I needed time away to let you go</br>
-	  had lived with her, yet people know</br>
-	  that you're the one I'd been looking for</br>
+	  Nakadikit sa isipan ko</br>
+	  iyung larawan at ngiti</br>
+	  na sinilayan sandali</br>
+	  Buhay ko'y nakiliti</br>
 	  </br>
-	  I need to find a way to let you know</br>
-	  that it's ok if people know </br>
-	  that we started from afar</br>
-	  I need some time to build castles of snow</br>
-	  and let my princess know together we'll grow</br>
-	  won't let the end of time go near</br>
-	  baby let's go, I need you right now</br>
+	  Di mo pa alam</br>
+	  ako'y nalulungkot</br>
+	  Sa tuwing ako'y wala</br>
+	  at kay daling malimot</br>
 	  </br>
-	  Yes, I am about to kiss you.. yet not so soon</br>
+	  Wag ka munang lilingon sinta</br>
+	  Di pa handa na ikaw ay makilala</br>
+	  Wag ka munang magmahal sinta</br>
+	  at magkamali na akoy iwasan</br>
+	  </br>
+	  Nandirito pa rin ako</br>
+	  Umaawit sa iyo</br>
 	  `, `<h3>Castles of Snow</h3>
 
 	  Does it matter if we're far?</br>
@@ -218,7 +238,73 @@ ikaw lang nag iisa<br>`, ` <h3>I Love You</h3>     I know that it's wrong<br>
 	  won't let the end of time go near</br>
 	  baby let's go, I need you right now</br>
 	  </br>
-	  Yes, I am about to kiss you.. yet not so soon</br>
+	  `, `<h3>Castles of Snow</h3>
+
+	  Does it matter if we're far?</br>
+	  We'll be wishing on the same star</br>
+	  Does it matter if I am near?</br>
+	  We'll be dealing with the same fear</br>
+	  Of losing those smiles along the way</br>
+	  Hold you closer than the other day</br>
+	  Wish that it was simpler than this</br>
+	  </br>
+	  I need to find a way to let you know</br>
+	  that it's ok if people know </br>
+	  that we started from afar</br>
+	  I need some time to build castles of snow</br>
+	  and let my princess know together we'll grow</br>
+	  won't let the end of time go near</br>
+	  baby let's go, I need you right now</br>
+	  </br>
+	  Here we are dancing to no song</br>
+	  like you're mine and I'm only yours</br>
+	  and my heart tells me now it's not wrong</br>
+	  for me to love you... all along..</br>
+	  and when stars go find their way</br>
+	  they build the sign you're on your way</br>
+	  I'll be here, calling your name</br>
+	  I needed time away to let you go</br>
+	  had lived with her, yet people know</br>
+	  that you're the one I'd been looking for</br>
+	  </br>
+	  I need to find a way to let you know</br>
+	  that it's ok if people know </br>
+	  that we started from afar</br>
+	  I need some time to build castles of snow</br>
+	  and let my princess know together we'll grow</br>
+	  won't let the end of time go near</br>
+	  baby let's go, I need you right now</br>
+	  </br>
+	  `, `<h3>ReignYanTrevon</h3>
+
+	  Sure your sleepy eyes need wake</br>
+	  Sure the pancakes bread will break</br>
+	  But yeah we'll be there</br>
+	  But yeah we'll be there</br>
+	  </br>
+	  Sure your toys will lose their heads</br>
+	  No one is perfect you eventually see</br>
+	  But yeah we'll be there </br>
+	  But yeah we'll be there</br>
+	  </br>
+	  Yes everything is a factor</br>
+	  but you dont need to be a doctor</br>
+	  be what you want to be</br>
+	  be what you want to be</br>
+	  </br>
+	  Hush now baby dont you cry</br>
+	  Everything will be just fine</br>
+	  This is not a lullabye</br>
+	  </br>
+	  Soon your lady eyes will seek</br>
+	  You may learn that love is weak</br>
+	  But yeah we'll be there</br>
+	  But yeah we'll be there</br>
+	  </br>
+	  And when uncle says goodbye</br>
+	  Fragile hands would shake somehow</br>
+	  You dont need to be there</br>
+	  You dont need to be there</br>
 	  `, `<h3>Tattie Wants to Play</h3>
 
 	  Tattie wants to play</br>
