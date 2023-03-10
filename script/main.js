@@ -1,30 +1,7 @@
 audioPlayer();
 function audioPlayer(){
 
-	const lyrics = [`<h3>Ngesil</h3>
-
-	Kahit hindi ka si Jopay</br>
-	Ang awitin na sinulat ko ay</br>
-	para sa iyo</br>
-	para lang sayo</br>
-	</br>
-	Kahit di na  nagbabanda</br>
-	di ako partner ng kestup</br>
-	ako ma'y nag-iisa</br>
-	pero di pa rin ako umaasa</br>
-	</br>
-	Pwede kang mawala</br>
-	sulong lang sa buhay sinta</br>
-	maaring matapos na ang arkitektura</br>
-	</br>
-	Pwede kang mawala</br>
-	sulong lang sa buhay sinta</br>
-	maaring matapos na ang arkitektura</br>
-	</br>
-	na/ng buhay na inaasam</br>
-	nandito lang ako, </br>
-	naniniwala sa iyo</br>
-	`, `<h3>Kilig</h3>		Ayan ka na naman at ako'y iyung binati ng "Hello" <br>
+	const lyrics = [`<h3>Kilig</h3>		Ayan ka na naman at ako'y iyung binati ng "Hello" <br>
         Muntik mahulog sa hagdan, nalunod at walang sagwan <br> <br>
         
         Kailan maibubuka ang mahiyain kong bibig <br>
