@@ -30,6 +30,7 @@ body{
 	display: block;
 	background-color: rgb(172, 255, 131);
 	text-decoration: none;
+    text-shadow: 0 0 8px #000;
 }
 #playlist .current-song a{
 	color: wheat;
@@ -37,12 +38,14 @@ body{
 }
 
 #lyrics{
-	background-color: black;
+	background-color: rgba(0,0,0,.7);
+    border-radius: 25px;
 	padding: 10px;
 	color: azure;
 	min-width: 350px;
 	display: block;
 	text-align: center;
+    box-shadow: 0 0 100px 4px #fafe04;
 	
 }
 
