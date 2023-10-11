@@ -1,7 +1,39 @@
 audioPlayer();
 function audioPlayer(){
 
-	const lyrics = [`<h3>Kilig</h3>		Ayan ka na naman at ako'y iyung binati ng "Hello" <br>
+	const lyrics = [`<h3>Kapit Lang</h3>Matutulog na lang<br>
+	Ikaw pa rin<br>
+	ang Dumadapo<br>
+	sa Puyat na isipan<br>
+	Bakit di maibsan<br>
+	Lungkot na dulot <br>
+	ng pag-aalinlangan<br>
+	sa Kinabukasan<br><br>
+	At kung kailangan mo <br>
+	ang aking kamay<br>
+	halika't kumapit muna<br>
+	at wag malumbay<br>
+	Problema'y Lilipas din<br><br>
+	Wag mo sanang isipin<br>
+	Pigilan ang pagdaloy<br>
+	ng luha at galit<br>
+	na kailangan na matunaw<br>
+	Balang araw ay makakapiling ka<br><br>
+	At kung kailangan mo <br>
+	ang aking kamay<br>
+	halika't kumapit muna<br>
+	at wag malumbay<br>
+	Problema'y Lilipas din<br><br>
+	Oh bakit nga magkalayo?<br>
+	Ang iyung araw ay gabi dito<br>
+	hahakbang na lang ako<br>
+	patungo sa iyo<br><br>
+	At kung kailangan mo <br>
+	ang aking kamay<br>
+	halika't kumapit muna<br>
+	at wag malumbay<br><br>
+	Problema'y Lilipas din<br>
+	`, `<h3>Kilig</h3>		Ayan ka na naman at ako'y iyung binati ng "Hello" <br>
         Muntik mahulog sa hagdan, nalunod at walang sagwan <br> <br>
         
         Kailan maibubuka ang mahiyain kong bibig <br>
