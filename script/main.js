@@ -405,6 +405,16 @@ ikaw lang nag iisa<br>`, ` <h3>I Love You</h3>     I know that it's wrong<br>
 	  Tattie wants to cry</br>
 	  I'm sorry my child for letting things go by</br>
 	  </br>
+	  And when the tears dried down</br>
+When you run and hide</br>
+I'll make sure you will find</br>
+My Prayers in the night</br></br>
+
+
+Up above the sky</br>
+you look down and you cry</br>
+I'm sorry my child</br>
+but I haven't learned to fly</br></br>
 	  just wait a lil while</br>
 	  and hush now please dont cry</br>
 	  somebody dreams</br>
