@@ -42,7 +42,7 @@ function audioPlayer(){
         
         O, kay-ganda mong Prinsesa <br>
         Forever na lang bang akong aasa? <br>
-        At akoy kikiligin... <br> <br>`, `<h3>Angel</h3>
+        At akoy kikiligin... <br> <br>`,  `<h3>Angel</h3>
 
 		if love drifts away</br>
 		and tears start falling day by day</br>
@@ -422,6 +422,35 @@ but I haven't learned to fly</br></br>
 	  </br>
 	  </br>
 	  ....my child</br>
+	  `, `<h3>Back 2 Reality</h3>
+	  
+	 I stole Your book<br>
+away from the dust<br>
+Emptied our altar<br>
+and read all about...<br><br>
+how you came<br>
+to learn what I am<br>
+Now You're the only one...<br>
+who understands me<br>
+and there to help me<br>
+You cry when I am down<br>
+You cry when I am down<br><br>
+When I found you I became a sinner<br>
+When I found you I learned I'm far from heaven<br>
+Back to reality<br>
+I'll be what I'll be<br>
+but try what You want of me<br>
+and believe in your Trinity<br><br>
+I want to change<br>
+but change wont want me<br>
+I want You to guide my sanity<br>
+I want to learn<br>
+how You came to Save me<br>
+When I found you I became a sinner<br>
+When I found you I learned I'm far from Heaven<br><br>
+Back to Reality...<br>
+	 
+	 
 	  `, `<h3>Uulitin</h3>
 
 	  Ilang ulit na ba nakalimutan</br>
