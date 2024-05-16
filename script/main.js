@@ -202,7 +202,7 @@ ikaw lang nag iisa<br>`, ` <h3>I Love You</h3>     I know that it's wrong<br>
       But, I know I'll hear the songs you like<br>
       and I know I'll see the stars shining up above<br>
       Yeah, I know that tears may break apart<br>
-      event hough I won't listen to my heart singing...<br><br>
+      even though I won't listen to my heart singing...<br><br>
       I know that it is wrong <br>
       to even love you....I love you <br>`, `<h3>Nandirito</h3>
 
