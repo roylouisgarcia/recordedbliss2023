@@ -1,4 +1,4 @@
-# Project Name: Recorder Bliss
+# Project Name: Recorded Bliss
 
 #### Description: 
 
