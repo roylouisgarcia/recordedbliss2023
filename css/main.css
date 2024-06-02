@@ -4,6 +4,16 @@
 box-sizing: border-box;
 }
 
+#header{
+    opacity: 0.76;
+}
+
+.responsive{
+    width: 90%;
+    height: auto;
+    max-width: 760px;
+}
+
 body{
     background-color: #2f2e25;
     font-family: 'Roboto', sans-serif;
@@ -28,7 +38,7 @@ body{
 #playlist li a{
 	color: black;
 	display: block;
-	background-color: rgb(172, 255, 131);
+	background-color: rgb(255, 152, 84);
 	text-decoration: none;
     text-shadow: 0 0 8px #000;
 }
@@ -50,7 +60,7 @@ body{
 }
 
 h3{
-	color:greenyellow;
+	color: #FF5C00;
 }
 
 video#bgvid {
