@@ -42,7 +42,49 @@ function audioPlayer(){
         
         O, kay-ganda mong Prinsesa <br>
         Forever na lang bang akong aasa? <br>
-        At akoy kikiligin... <br> <br>`,  `<h3>Angel</h3>
+        At akoy kikiligin... <br> <br>`, `<h3>Kobe - Version 1</h3>I am right here<br>
+wishing someday<br>
+we'll find a way<br>
+take me or hate me<br>
+but learn what you have to say<br>
+before you critisize<br><br>
+
+We all renew<br>
+our chance to win a day or two<br>
+Dont you wish it's you<br>
+who plays the game the final countdown<br><br>
+
+I am, could be (Kobe)<br>
+next to break your heart<br>
+criticize me<br>
+I'll throw a hole above the shock (Shaq)<br><br>
+
+We all renew<br>
+our chance to win a day or two<br>
+Dont you wish it's you<br>
+who plays the game the final countdown<br>
+`, `<h3>Kobe - Version 2</h3>I am right here<br>
+wishing someday<br>
+we'll find a way<br>
+take me or hate me<br>
+but learn what you have to say<br>
+before you critisize<br><br>
+
+We all renew<br>
+our chance to win a day or two<br>
+Dont you wish it's you<br>
+who plays the game the final countdown<br><br>
+
+I am, could be (Kobe)<br>
+next to break your heart<br>
+criticize me<br>
+I'll throw a hole above the shock (Shaq)<br><br>
+
+We all renew<br>
+our chance to win a day or two<br>
+Dont you wish it's you<br>
+who plays the game the final countdown<br>
+`,  `<h3>Angel</h3>
 
 		if love drifts away</br>
 		and tears start falling day by day</br>
