@@ -485,33 +485,111 @@ Back to Reality...<br>
 	]
 
 	var currentSong = 0;
+	var totalItems = $("#playlist li").length;
+	
 	$("#audioPlayer")[0].src = $("#playlist li a")[0];
 	// This will initialize the lyrics div to contain the lyrics of the first song
-	$("#lyrics").html(lyrics[0])
+	const firstSongTitle = $("#playlist li:eq(0) a").text();
+	if (firstSongTitle.toLowerCase().includes("nieces")) {
+		$("#lyrics").html("<h3>" + firstSongTitle + "</h3><p>No lyrics available for this recording.</p>");
+	} else {
+		$("#lyrics").html(lyrics[0]);
+	}
 	$("#audioPlayer")[0].play();
+	
+	// Function to update arrow button states
+	function updateArrowStates() {
+		const upButton = document.getElementById('scrollUp');
+		const downButton = document.getElementById('scrollDown');
+		
+		upButton.disabled = currentSong <= 0;
+		downButton.disabled = currentSong >= totalItems - 1;
+	}
+	
+	// Function to play song and center it in playlist
+	function playSong(songIndex) {
+		if (songIndex < 0 || songIndex >= totalItems) return;
+		
+		// Update current song
+		currentSong = songIndex;
+		
+		// Update playlist visual state
+		$("#playlist li").removeClass("current-song");
+		$("#playlist li:eq("+currentSong+")").addClass("current-song");
+		
+		// Play the song
+		$("#audioPlayer")[0].src = $("#playlist li a")[currentSong].href;
+		$("#audioPlayer")[0].play();
+		
+		// Update lyrics - check if song title contains "Nieces"
+		const songTitle = $("#playlist li:eq("+currentSong+") a").text();
+		if (songTitle.toLowerCase().includes("nieces")) {
+			$("#lyrics").html("<h3>" + songTitle + "</h3><p>No lyrics available for this recording.</p>");
+		} else {
+			$("#lyrics").html(lyrics[currentSong]);
+		}
+		
+		// Center current song in playlist
+		scrollToCurrentSong();
+		
+		// Update arrow states
+		updateArrowStates();
+	}
+	
+	// Arrow button event listeners - now for song navigation
+	document.getElementById('scrollUp').addEventListener('click', function() {
+		playSong(currentSong - 1); // Previous song
+	});
+	
+	document.getElementById('scrollDown').addEventListener('click', function() {
+		playSong(currentSong + 1); // Next song
+	});
+	
+	// Keyboard support for arrow keys
+	document.addEventListener('keydown', function(e) {
+		if (e.key === 'ArrowUp') {
+			e.preventDefault();
+			playSong(currentSong - 1); // Previous song
+		} else if (e.key === 'ArrowDown') {
+			e.preventDefault();
+			playSong(currentSong + 1); // Next song
+		}
+	});
+	
+	// Function to scroll current song to center of playlist
+	function scrollToCurrentSong() {
+		const playlist = document.getElementById('playlist');
+		const currentItem = playlist.querySelector('.current-song');
+		if (currentItem) {
+			const itemHeight = 50; // Approximate height of each item
+			const visibleItems = 5; // Number of visible items
+			const centerOffset = Math.floor(visibleItems / 2); // Center position (2 for 5 items)
+			
+			// Calculate target scroll position to center current song
+			const targetScroll = Math.max(0, (currentSong - centerOffset) * itemHeight);
+			
+			playlist.scrollTop = targetScroll;
+		}
+	}
+	
+	// Initialize arrow states and center first song
+	updateArrowStates();
+	scrollToCurrentSong();
 	
 	// This lets the user click on the title of the song they want to play and the lyrics will be displayed accordingly also
 	$("#playlist li a").click(function(e){
 		e.preventDefault();
-		$("#audioPlayer")[0].src = this; 
-		$("#audioPlayer")[0].play();
-		$("#playlist li").removeClass("current-song");
-		currentSong = $(this).parent().index();
-		$(this).parent().addClass("current-song");
-		$("#lyrics").html(lyrics[currentSong])
-		
-
+		const clickedIndex = $(this).parent().index();
+		playSong(clickedIndex);
 	});
 
 	$("#audioPlayer")[0].addEventListener("ended", function(){
-		currentSong++;
-		if(currentSong == $("#playlist li a").length)
-			currentSong = 0;
-		$("#playlist li").removeClass("current-song");
-		$("#playlist li:eq("+currentSong+")").addClass("current-song");
-		$("#audioPlayer")[0].src = $("#playlist li a")[currentSong].href;
-		$("#audioPlayer")[0].play();
-		$("#lyrics").html(lyrics[currentSong]);
+		const nextSong = currentSong + 1;
+		if(nextSong >= totalItems) {
+			playSong(0); // Loop back to first song
+		} else {
+			playSong(nextSong);
+		}
 	});
 
 	
