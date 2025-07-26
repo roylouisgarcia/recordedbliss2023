@@ -42,12 +42,12 @@ function audioPlayer(){
         
         O, kay-ganda mong Prinsesa <br>
         Forever na lang bang akong aasa? <br>
-        At akoy kikiligin... <br> <br>`, `<h3>Kobe - Version 1</h3>I am right here<br>
+        At akoy kikiligin... <br> <br>`, `<img src="./images/kobe/${Math.floor(Math.random() * 5) + 1 === 5 ? 'mamba_413.jpg' : (Math.floor(Math.random() * 4) + 1) + '.jpg'}" alt="Kobe" style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto 20px auto;"><h3>Kobe - Original version (2008)</h3>I am right here<br>
 wishing someday<br>
 we'll find a way<br>
 take me or hate me<br>
 but learn what you have to say<br>
-before you critisize<br><br>
+before you criticize<br><br>
 
 We all renew<br>
 our chance to win a day or two<br>
@@ -63,12 +63,12 @@ We all renew<br>
 our chance to win a day or two<br>
 Dont you wish it's you<br>
 who plays the game the final countdown<br>
-`, `<h3>Kobe - Version 2</h3>I am right here<br>
+`, `<img src="./images/kobe/${Math.floor(Math.random() * 5) + 1 === 5 ? 'mamba_413.jpg' : (Math.floor(Math.random() * 4) + 1) + '.jpg'}" alt="Kobe" style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto 20px auto;"><h3>Kobe - New version (2025)</h3>I am right here<br>
 wishing someday<br>
 we'll find a way<br>
 take me or hate me<br>
 but learn what you have to say<br>
-before you critisize<br><br>
+before you criticize<br><br>
 
 We all renew<br>
 our chance to win a day or two<br>
