@@ -70,6 +70,7 @@ body{
 	text-shadow: 0 0 8px #000;
 	transform: scale(1);
 	box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+	opacity: 0.7;
 }
 
 .playlist-arrow:hover {
@@ -132,6 +133,7 @@ body{
 }
 #playlist .current-song {
 	transform: scale(1.05);
+	opacity: 0.7;
 }
 
 #playlist .current-song a{
